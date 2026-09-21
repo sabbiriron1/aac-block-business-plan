@@ -40,7 +40,7 @@ These came from the official NextBlock AAC site (`nextblock.build`) and must be 
 | Award | "Best Process Innovation" — Bangladesh Innovation Award 2023 |
 | Performance claims | 40% lighter · ≈5°C thermal advantage · up to 4.5 hr fire rating · up to 20% lower cost · ≈2× faster |
 | Block sizes | 600×200× {100 / 110 / 120 / 140} mm + custom |
-| Landmark projects | Rampal Power Plant · Rupayan City · Lakeshore Hotel · RMG factories · BAT Manikganj · Data Center Jessore |
+| Reference projects (blocks supplied — not built by Tilottoma) | Rampal Power Plant · Rupayan City · Lakeshore Hotel · RMG factories · BAT Manikganj · Data Center Jessore |
 
 Tilottoma legacy: ~45 years in construction materials (finishing, bath/spa, ceramics, hardware).
 
