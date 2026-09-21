@@ -1,0 +1,8 @@
+# Vercel deployment metadata (auto-generated)
+.vercel/
+
+# Dependencies / OS files
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
