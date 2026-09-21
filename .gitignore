@@ -1,6 +1,9 @@
 # Vercel deployment metadata (auto-generated)
 .vercel/
 
+# Cloudflare wrangler cache (auto-generated)
+.wrangler/
+
 # Dependencies / OS files
 node_modules/
 .DS_Store
